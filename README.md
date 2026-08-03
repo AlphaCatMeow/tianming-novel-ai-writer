@@ -6,7 +6,7 @@
 群号：414086347
 
 ## 视频教程
-正式版教程：https://www.bilibili.com/video/BV1pK3f6YE5h/
+正式版教程：https://www.bilibili.com/video/BV1pK3f6YE5h
 开源版教程：https://www.bilibili.com/video/BV1trRDBfEQR   
 
 教程是旧版完整教程，嫌麻烦可以查看我发的其他快速版教程，虽然也是旧版的，主要跟新太快，教程跟不上
